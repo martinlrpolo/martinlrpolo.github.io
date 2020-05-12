@@ -1,0 +1,53 @@
+{
+    "title" : {
+            "ES" : "Estudio",
+            "EN" : "Study",
+            "DE" : "Studie"
+    },
+    "study" : [
+        {
+            "school" : {
+                "ES" : "NEC",
+                "EN" : "NEC",
+                "DE" : "NEC"
+            },
+            "title" : {
+                "ES" : "Desarrollador Senior",
+                "EN" : "Senior Software Developer",
+                "DE" : "Senior Software Developer"
+            },
+            "date" : {
+                "ES" : "Dic 2018 - Sep 2019",
+                "EN" : "Dec 2018 - Sep 2019",
+                "DE" : "Dec 2018 - Sep 2019"
+            },
+            "description": {
+                "ES" : "Experiencia laboral",
+                "EN" : "Work experience",
+                "DE" : "Arbeitserfahrung"
+            }
+        },
+        {
+            "school" : {
+                "ES" : "NEC",
+                "EN" : "NEC",
+                "DE" : "NEC"
+            },
+            "title" : {
+                "ES" : "Desarrollador Senior",
+                "EN" : "Senior Software Developer",
+                "DE" : "Senior Software Developer"
+            },
+            "date" : {
+                "ES" : "Dic 2018 - Sep 2019",
+                "EN" : "Dec 2018 - Sep 2019",
+                "DE" : "Dec 2018 - Sep 2019"
+            },
+            "description": {
+                "ES" : "Experiencia laboral",
+                "EN" : "Work experience",
+                "DE" : "Arbeitserfahrung"
+            }
+        }
+    ]
+}

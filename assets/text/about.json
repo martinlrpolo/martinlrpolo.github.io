@@ -1,0 +1,12 @@
+{
+    "title" : {
+            "ES" : "Sobre mi",
+            "EN" : "About me",
+            "DE" : "Über mich"
+    },
+    "info" : {
+        "ES" : "Soy alguien responsable, bastante dinámico, con deseos de superación y mis metas están basadas en el logro de objetivos claros; aprendo rápido y cumplo de manera adecuada con puntualidad, honestidad y responsabilidad en las distintas actividades que realizo. Actualmente cuento con el conocimiento y la experiencia de los siguientes lenguajes de programación, frameworks y herramientas para la creación de sitios web, aplicaciones de escritorio, aplicaciones móviles y demás.",
+        "EN" : "About me",
+        "DE" : "Über mich"
+    }
+}

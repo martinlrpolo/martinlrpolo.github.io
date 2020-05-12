@@ -1,0 +1,25 @@
+{
+    "title" : {
+            "ES" : "Intereses",
+            "EN" : "Hobbies",
+            "DE" : "Hobbys"
+    },
+    "interests" : [
+        {
+            "title" : {
+                "ES" : "Tocar guitarra",
+                "EN" : "Play GUitar",
+                "DE" : "Gitarre spielen"
+            },
+            "icon" : "fas fa-guitar"
+        },
+        {
+            "title" : {
+                "ES" : "Viajar",
+                "EN" : "Travel",
+                "DE" : "Reisen"
+            },
+            "icon" : "fas fa-plane-departure"
+        }
+    ]
+}

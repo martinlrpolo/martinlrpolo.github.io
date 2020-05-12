@@ -1,0 +1,48 @@
+{
+    "title" : {
+            "ES" : "Idiomas",
+            "EN" : "Languages",
+            "DE" : "Sprachen"
+    },
+    "languages" : [
+        {
+            "title" : {
+                "ES" : "Alemán",
+                "EN" : "Germany",
+                "DE" : "Deutsch"
+            },
+            "description" : {
+                "ES" : "B1",
+                "EN" : "B1",
+                "DE" : "B1"
+            },
+            "flag" : "germany"
+        },
+        {
+            "title" : {
+                "ES" : "Inglés",
+                "EN" : "English",
+                "DE" : "Englisch"
+            },
+            "description" : {
+                "ES" : "A2",
+                "EN" : "A2",
+                "DE" : "A2"
+            },
+            "flag" : "uk"
+        },
+        {
+            "title" : {
+                "ES" : "Español",
+                "EN" : "Spanish",
+                "DE" : "Spanisch"
+            },
+            "description" : {
+                "ES" : "Idioma nativo",
+                "EN" : "Native language",
+                "DE" : "Muttersprache"
+            },
+            "flag" : "spain"
+        }
+    ]
+}

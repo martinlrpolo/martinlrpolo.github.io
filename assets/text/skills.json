@@ -1,0 +1,115 @@
+{
+    "title" : {
+            "ES" : "Habilidades",
+            "EN" : "Skills",
+            "DE" : "Fähigkeit"
+    },
+    "webdesign" : {
+        "title" : {
+            "ES" : "Diseño web",
+            "EN" : "Web Design",
+            "DE" : "Web Design"
+        },
+        "data" : [
+            {
+                "title" : {
+                    "ES" : "HTML5",
+                    "EN" : "HTML5",
+                    "DE" : "HTML5"
+                },
+                "progress" : 100,
+                "description" : "Bootstrap, Materialize"
+            },
+            {
+                "title" : {
+                    "ES" : "CSS3",
+                    "EN" : "CSS3",
+                    "DE" : "CSS3"
+                },
+                "progress" : 100,
+                "description" : ""
+            }
+        ]
+    },
+    "programming" : {
+        "title" : {
+            "ES" : "Desarrollo de software",
+            "EN" : "Software development",
+            "DE" : "Software-Entwicklung"
+        },
+        "data" : [
+            {
+                "title" : {
+                    "ES" : "HTML5",
+                    "EN" : "HTML5",
+                    "DE" : "HTML5"
+                },
+                "progress" : 100,
+                "description" : ""
+            },
+            {
+                "title" : {
+                    "ES" : "CSS3",
+                    "EN" : "CSS3",
+                    "DE" : "CSS3"
+                },
+                "progress" : 100,
+                "description" : ""
+            }
+        ]
+    },
+    "database" : {
+        "title" : {
+            "ES" : "Base de datos",
+            "EN" : "Database",
+            "DE" : "Datenbank"
+        },
+        "data" : [
+            {
+                "title" : {
+                    "ES" : "HTML5",
+                    "EN" : "HTML5",
+                    "DE" : "HTML5"
+                },
+                "progress" : 100,
+                "description" : ""
+            },
+            {
+                "title" : {
+                    "ES" : "CSS3",
+                    "EN" : "CSS3",
+                    "DE" : "CSS3"
+                },
+                "progress" : 100,
+                "description" : ""
+            }
+        ]
+    },
+    "metodologies" : {
+        "title" : {
+            "ES" : "Metodologías",
+            "EN" : "Methodologies",
+            "DE" : "Methoden"
+        },
+        "data" : [
+            {
+                "title" : {
+                    "ES" : "HTML5",
+                    "EN" : "HTML5",
+                    "DE" : "HTML5"
+                },
+                "progress" : 100,
+                "description" : ""
+            },
+            {
+                "title" : {
+                    "ES" : "CSS3",
+                    "EN" : "CSS3",
+                    "DE" : "CSS3"
+                },
+                "progress" : 100,
+                "description" : ""
+            }
+        ]
+    }
+}
