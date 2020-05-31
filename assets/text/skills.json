@@ -4,112 +4,78 @@
             "EN" : "Skills",
             "DE" : "Fähigkeit"
     },
-    "webdesign" : {
-        "title" : {
-            "ES" : "Diseño web",
-            "EN" : "Web Design",
-            "DE" : "Web Design"
-        },
-        "data" : [
-            {
-                "title" : {
-                    "ES" : "HTML5",
-                    "EN" : "HTML5",
-                    "DE" : "HTML5"
-                },
-                "progress" : 100,
-                "description" : "Bootstrap, Materialize"
+    "data" : [
+        {
+            "title" : {
+                "ES" : "Diseño web",
+                "EN" : "Web design",
+                "DE" : "Web design"
             },
-            {
-                "title" : {
-                    "ES" : "CSS3",
-                    "EN" : "CSS3",
-                    "DE" : "CSS3"
-                },
-                "progress" : 100,
-                "description" : ""
+            "description" : {
+                "ES" : "UI/UX, HTML5, CSS3, Bootstrap, Materializecss, Uikit, Wordpress y Joomla.",
+                "EN" : "UI/UX, HTML5, CSS3, Bootstrap, Materializecss, Uikit, Wordpress and Joomla.",
+                "DE" : "UI/UX, HTML5, CSS3, Bootstrap, Materializecss, Uikit, Wordpress und Joomla."
             }
-        ]
-    },
-    "programming" : {
-        "title" : {
-            "ES" : "Desarrollo de software",
-            "EN" : "Software development",
-            "DE" : "Software-Entwicklung"
         },
-        "data" : [
-            {
-                "title" : {
-                    "ES" : "HTML5",
-                    "EN" : "HTML5",
-                    "DE" : "HTML5"
-                },
-                "progress" : 100,
-                "description" : ""
+        {
+            "title" : {
+                "ES" : "Desarrollo de software",
+                "EN" : "Software development",
+                "DE" : "Softwareentwicklung"
             },
-            {
-                "title" : {
-                    "ES" : "CSS3",
-                    "EN" : "CSS3",
-                    "DE" : "CSS3"
-                },
-                "progress" : 100,
-                "description" : ""
+            "description" : {
+                "ES" : "PHP: Laravel, Lumen, Codeigniter, Slim. Javascript: Angular, Jquery, Ajax, AngularJS, ReactJs. NodeJs: Sails Js, Express Js. C#: Entity Framework. Java: Spring, Hibernate.",
+                "EN" : "PHP: Laravel, Lumen, Codeigniter, Slim. Javascript: Angular, Jquery, Ajax, AngularJS, ReactJs. NodeJs: Sails Js, Express Js. C#: Entity Framework. Java: Spring, Hibernate.",
+                "DE" : "PHP: Laravel, Lumen, Codeigniter, Slim. Javascript: Angular, Jquery, Ajax, AngularJS, ReactJs. NodeJs: Sails Js, Express Js. C#: Entity Framework. Java: Spring, Hibernate."
             }
-        ]
-    },
-    "database" : {
-        "title" : {
-            "ES" : "Base de datos",
-            "EN" : "Database",
-            "DE" : "Datenbank"
         },
-        "data" : [
-            {
-                "title" : {
-                    "ES" : "HTML5",
-                    "EN" : "HTML5",
-                    "DE" : "HTML5"
-                },
-                "progress" : 100,
-                "description" : ""
+        {
+            "title" : {
+                "ES" : "APPS",
+                "EN" : "APPS",
+                "DE" : "APPS"
             },
-            {
-                "title" : {
-                    "ES" : "CSS3",
-                    "EN" : "CSS3",
-                    "DE" : "CSS3"
-                },
-                "progress" : 100,
-                "description" : ""
+            "description" : {
+                "ES" : "Ionic Framework, Xamarin Studio, Android Studio.",
+                "EN" : "Ionic Framework, Xamarin Studio, Android Studio.",
+                "DE" : "Ionic Framework, Xamarin Studio, Android Studio."
             }
-        ]
-    },
-    "metodologies" : {
-        "title" : {
-            "ES" : "Metodologías",
-            "EN" : "Methodologies",
-            "DE" : "Methoden"
         },
-        "data" : [
-            {
-                "title" : {
-                    "ES" : "HTML5",
-                    "EN" : "HTML5",
-                    "DE" : "HTML5"
-                },
-                "progress" : 100,
-                "description" : ""
+        {
+            "title" : {
+                "ES" : "Web Services",
+                "EN" : "Web Services",
+                "DE" : "Web Services"
             },
-            {
-                "title" : {
-                    "ES" : "CSS3",
-                    "EN" : "CSS3",
-                    "DE" : "CSS3"
-                },
-                "progress" : 100,
-                "description" : ""
+            "description" : {
+                "ES" : "Rest, SOAP.",
+                "EN" : "Rest, SOAP.",
+                "DE" : "Rest, SOAP."
             }
-        ]
-    }
+        },
+        {
+            "title" : {
+                "ES" : "Arquitectura de software y patrones",
+                "EN" : "Software architecture and design patterns",
+                "DE" : "Software architecture und design patterns"
+            },
+            "description" : {
+                "ES" : "Developer architecture, MVC, Backend - Frontend.",
+                "EN" : "Developer architecture, MVC, Backend - Frontend.",
+                "DE" : "Developer architecture, MVC, Backend - Frontend."
+            }
+        },
+        {
+            "title" : {
+                "ES" : "Bases de datos",
+                "EN" : "Database",
+                "DE" : "Datenbank"
+            },
+            "description" : {
+                "ES" : "Mysql, Microsoft® SQL Server® 2008 R2, Microsoft® SQL Server® 2012, Oracle Database 11g Express Edition",
+                "EN" : "Mysql, Microsoft® SQL Server® 2008 R2, Microsoft® SQL Server® 2012, Oracle Database 11g Express Edition",
+                "DE" : "Mysql, Microsoft® SQL Server® 2008 R2, Microsoft® SQL Server® 2012, Oracle Database 11g Express Edition"
+            }
+        }
+    ]
 }

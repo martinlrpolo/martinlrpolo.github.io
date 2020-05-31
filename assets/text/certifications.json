@@ -7,46 +7,24 @@
     "experience" : [
         {
             "enterprise" : {
-                "ES" : "NEC",
-                "EN" : "NEC",
-                "DE" : "NEC"
+                "ES" : "SCRUMstudy",
+                "EN" : "SCRUMstudy",
+                "DE" : "SCRUMstudy"
             },
             "position" : {
-                "ES" : "Desarrollador Senior",
-                "EN" : "Senior Software Developer",
-                "DE" : "Senior Software Developer"
+                "ES" : "Scrum fundamentals certified",
+                "EN" : "Scrum fundamentals certified",
+                "DE" : "Scrum fundamentals certified"
             },
             "date" : {
-                "ES" : "Dic 2018 - Sep 2019",
-                "EN" : "Dec 2018 - Sep 2019",
-                "DE" : "Dec 2018 - Sep 2019"
+                "ES" : "Jun 2018",
+                "EN" : "Jun 2018",
+                "DE" : "Jun 2018"
             },
             "description": {
-                "ES" : "Experiencia laboral",
-                "EN" : "Work experience",
-                "DE" : "Arbeitserfahrung"
-            }
-        },
-        {
-            "enterprise" : {
-                "ES" : "NEC",
-                "EN" : "NEC",
-                "DE" : "NEC"
-            },
-            "position" : {
-                "ES" : "Desarrollador Senior",
-                "EN" : "Senior Software Developer",
-                "DE" : "Senior Software Developer"
-            },
-            "date" : {
-                "ES" : "Dic 2018 - Sep 2019",
-                "EN" : "Dec 2018 - Sep 2019",
-                "DE" : "Dec 2018 - Sep 2019"
-            },
-            "description": {
-                "ES" : "Experiencia laboral",
-                "EN" : "Work experience",
-                "DE" : "Arbeitserfahrung"
+                "ES" : "",
+                "EN" : "",
+                "DE" : ""
             }
         }
     ]

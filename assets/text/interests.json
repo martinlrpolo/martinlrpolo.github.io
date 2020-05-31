@@ -8,7 +8,7 @@
         {
             "title" : {
                 "ES" : "Tocar guitarra",
-                "EN" : "Play GUitar",
+                "EN" : "Playing Guitar",
                 "DE" : "Gitarre spielen"
             },
             "icon" : "fas fa-guitar"
@@ -20,6 +20,14 @@
                 "DE" : "Reisen"
             },
             "icon" : "fas fa-plane-departure"
+        },
+        {
+            "title" : {
+                "ES" : "Leer",
+                "EN" : "Read",
+                "DE" : "Lesen"
+            },
+            "icon" : "fas fa-book"
         }
     ]
 }

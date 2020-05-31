@@ -7,46 +7,46 @@
     "study" : [
         {
             "school" : {
-                "ES" : "NEC",
-                "EN" : "NEC",
-                "DE" : "NEC"
+                "ES" : "Universidad el bosque, Bogotá D.C",
+                "EN" : "Universidad el bosque, Bogotá D.C",
+                "DE" : "Universidad el bosque, Bogotá D.C"
             },
             "title" : {
-                "ES" : "Desarrollador Senior",
-                "EN" : "Senior Software Developer",
-                "DE" : "Senior Software Developer"
+                "ES" : "Ingeniería de sistemas",
+                "EN" : "System Engineering",
+                "DE" : "System Engineering Studium"
             },
             "date" : {
-                "ES" : "Dic 2018 - Sep 2019",
-                "EN" : "Dec 2018 - Sep 2019",
-                "DE" : "Dec 2018 - Sep 2019"
+                "ES" : "2020",
+                "EN" : "2020",
+                "DE" : "2020"
             },
             "description": {
-                "ES" : "Experiencia laboral",
-                "EN" : "Work experience",
-                "DE" : "Arbeitserfahrung"
+                "ES" : "Ingeniería de Sistemas 5 años de estudio. Desarrollo de software, sistemas operativos, lógica matemática y gestión de proyectos.",
+                "EN" : "Systems Engineering 5 years of study. Software development, operating systems, mathematical logic and project management.",
+                "DE" : "System Engineering Studium. Softwareentwicklung, Betriebssysteme, mathematische Logik und Projekt Verwaltung."
             }
         },
         {
             "school" : {
-                "ES" : "NEC",
-                "EN" : "NEC",
-                "DE" : "NEC"
+                "ES" : "Colegio Divino Maestro (IED)",
+                "EN" : "Colegio Divino Maestro (IED)",
+                "DE" : "Colegio Divino Maestro (IED)"
             },
             "title" : {
-                "ES" : "Desarrollador Senior",
-                "EN" : "Senior Software Developer",
-                "DE" : "Senior Software Developer"
+                "ES" : "Bachiller académico",
+                "EN" : "High School Student",
+                "DE" : "Schüler"
             },
             "date" : {
-                "ES" : "Dic 2018 - Sep 2019",
-                "EN" : "Dec 2018 - Sep 2019",
-                "DE" : "Dec 2018 - Sep 2019"
+                "ES" : "2014",
+                "EN" : "2014",
+                "DE" : "2014"
             },
             "description": {
-                "ES" : "Experiencia laboral",
-                "EN" : "Work experience",
-                "DE" : "Arbeitserfahrung"
+                "ES" : "",
+                "EN" : "",
+                "DE" : ""
             }
         }
     ]
